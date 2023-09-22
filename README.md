@@ -19,4 +19,17 @@ their area.
 - Maintaining an accurate database of Charging station and the Users
 - Keeping the queues times to a very low level and ensuring that EV drivers will arrive at their destination in the expected time, this system will ensure a positive customer experience that will ultimately boost EV adoption.
 - A system to allow EV owners to make charging station reservation or advance scheduling for upcoming journey, especially for long distance trips that require multiple charging operations.
+</br>
+<figure style="display: inline-block; width: 50%;">
+    <img src="https://github.com/oyerounak/Electric-vehicle-advance-booking-system-for-charging-station/assets/90121177/719060e0-93a9-49c7-96e0-85081dfbec86" width="40%" height="40%">
+    <figcaption>Use-case Diagram Admin Side</figcaption>
+</figure>
+</br>
+<figure style="display: inline-block; width: 50%;">
+    <img src="https://github.com/oyerounak/Electric-vehicle-advance-booking-system-for-charging-station/assets/90121177/ce016068-7ca5-4cab-8b0a-5c30b389210b" width="40%" height="40%">
+    <figcaption>Use-case Diagram User Side</figcaption>
+</figure>
+
+
+
 
